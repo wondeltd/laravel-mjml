@@ -2,6 +2,7 @@
 
 Build responsive e-mails easily using MJML and Laravel Mailables.
 
+
 ### MJML
 
 MJML is an awesome tool from MailJet that allows us to create responsive emails very easily. For more information on how to use it, head to their documentation [here](https://mjml.io/documentation/#mjml-guides)
